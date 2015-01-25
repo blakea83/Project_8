@@ -168,3 +168,7 @@ predicted the 20 test observations confirming the validity of the model.
 ```{r,echo=TRUE}
 output_test<-predict(model_rf,Model_Testing)
 ```
+
+
+
+
